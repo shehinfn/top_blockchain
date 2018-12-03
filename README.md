@@ -5,5 +5,5 @@
 | ------------------|-----------------| ----------| -----| ---------------| ----------------|
 | ![alt text][stellar] Stellar          | https://www.stellar.org/|Stellar consensus protocol|1000+|                 |                  |
 
-[stellar]:  <img src="https://www.stellar.org/wp-content/uploads/2014/07/Twitter_avatar.png" width="100" height="100">
+[stellar]:  https://www.stellar.org/wp-content/uploads/2014/07/Twitter_avatar.png {:height="50%" width="50%"}
 
