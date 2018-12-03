@@ -2,6 +2,7 @@
 
 Colons can be used to align columns.
 
-| Blockchain        | Website           | Consensus  | Transaction per second(TPS)  | Block size (MB) | production ready |
-| ------------------|:-----------------:| ----------:| ----------------------------:| ---------------:| ----------------:|
+| Blockchain        | Website           | Consensus  | TPS)  | Block size (MB) | production ready |
+| ------------------|:-----------------:| ----------:| -----:| ---------------:| ----------------:|
+|                   |                   |            |       |                 |                  |
 
